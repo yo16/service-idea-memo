@@ -1,2 +1,2 @@
-# system-idea-memo
-システムのアイデアを記録するシステム
+# service-idea-memo
+サービスのアイデアを記録するシステム
