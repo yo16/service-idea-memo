@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "service_idea_memo",
+  "project_id": "88e392ef-1550-4548-942c-b96aae929a6d"
+}
